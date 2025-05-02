@@ -1,0 +1,21 @@
+id,patientid,patientname,ordernumber,contactinfo,apheresisstatus,mfrstatus,dpdelieverstatus,schedulingstatus,region,orderstatus
+1,P1234,Albert James,US123,908767798,OnTrack,OnTrack,OnTrack,OnTrack,US,OnTrack
+2,P475,Jodi Holt,US456,908769890,Delayed,Delayed,Delayed,Delayed,US,OnTrack
+3,P890,Arnold Hammer,US675,908789890,Delayed,Delayed,Delayed,Delayed,US,OnTrack
+4,P800,Veronica hedge,US605,908989890,Due,Due,Due,Due,US,OnTrack
+5,P896,Veronica hedge,US615,908989890,Completed,Completed,Due,Completed,US,OnTrack
+6,P852,Rolan Geng,EU106,9089678890,Completed,Completed,Due,Completed,EU,OnTrack
+7,P574,Andrew hall,EU786,708656890,Completed,Completed,Due,Completed,EU,OnTrack
+8,P507,John Smith,EU721,9065536890,Delayed,Delayed,Due,Delayed,EU,Delayed
+9,P561,Raymod Stewart,EU586,9065536890,Completed,Completed,Due,Completed,EU,OnTrack
+10,P610,Messi Lionel,EU089,90666636890,Completed,Completed,Due,Completed,EU,OnTrack
+11,P501,Jenny Lee,APAC016,45765536890,Completed,Completed,Due,Completed,APAC,OnTrack
+12,P531,Joseph San,APAC900,45765536890,Completed,Completed,Due,Completed,APAC,OnTrack
+13,P597,Hose Lan,APAC792,9065536890,Delayed,Delayed,Due,Delayed,APAC,Delayed
+14,P547,Jackie chan,APAC753,45465536890,Delayed,Delayed,Due,Delayed,APAC,Delayed
+15,P570,Robert Dzang,APAC986,2045456890,Completed,Completed,Due,Completed,APAC,OnTrack
+16,P067,Lizet Rodriguez,NA098,20198445568,Completed,Completed,Due,Completed,NA,OnTrack
+17,P057,Henry Eiguez,NA999,20173656890,Completed,Completed,Due,Completed,NA,OnTrack
+18,P157,Surdanez Rod,NA001,20175545454,Completed,Completed,Due,Completed,NA,OnTrack
+19,P065,Rod Hertz,NA871,2017556890,Delayed,Delayed,Due,Completed,NA,OnTrack
+20,P076,Harvard Josh,NA898,2017556890,Completed,Completed,Delayed,Completed,NA,OnTrack
