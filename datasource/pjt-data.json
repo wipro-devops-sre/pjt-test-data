@@ -1,0 +1,349 @@
+{
+    "patientOrders": [
+      {
+        "id": 1,
+        "patientid": "P1234",
+        "patientname": "Albert James",
+        "ordernumber": "US123",
+        "contactinfo": "908767798",
+        "apheresisstatus": "OnTrack",
+        "mfrstatus": "OnTrack",
+        "dpdelieverstatus": "OnTrack",
+        "schedulingstatus": "OnTrack",
+        "region": "US",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 2,
+        "patientid": "P475",
+        "patientname": "Jodi Holt",
+        "ordernumber": "US456",
+        "contactinfo": "908769890",
+        "apheresisstatus": "Delayed",
+        "mfrstatus": "Delayed",
+        "dpdelieverstatus": "Delayed",
+        "schedulingstatus": "Delayed",
+        "region": "US",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 3,
+        "patientid": "P890",
+        "patientname": "Arnold Hammer",
+        "ordernumber": "US675",
+        "contactinfo": "908789890",
+        "apheresisstatus": "Delayed",
+        "mfrstatus": "Delayed",
+        "dpdelieverstatus": "Delayed",
+        "schedulingstatus": "Delayed",
+        "region": "US",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 4,
+        "patientid": "P800",
+        "patientname": "Veronica hedge",
+        "ordernumber": "US605",
+        "contactinfo": "908989890",
+        "apheresisstatus": "Due",
+        "mfrstatus": "Due",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Due",
+        "region": "US",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 5,
+        "patientid": "P896",
+        "patientname": "Veronica hedge",
+        "ordernumber": "US615",
+        "contactinfo": "908989890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "US",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 6,
+        "patientid": "P852",
+        "patientname": "Rolan Geng",
+        "ordernumber": "EU106",
+        "contactinfo": "9089678890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "EU",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 7,
+        "patientid": "P574",
+        "patientname": "Andrew hall",
+        "ordernumber": "EU786",
+        "contactinfo": "708656890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "EU",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 8,
+        "patientid": "P507",
+        "patientname": "John Smith",
+        "ordernumber": "EU721",
+        "contactinfo": "9065536890",
+        "apheresisstatus": "Delayed",
+        "mfrstatus": "Delayed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Delayed",
+        "region": "EU",
+        "orderstatus": "Delayed"
+      },
+      {
+        "id": 9,
+        "patientid": "P561",
+        "patientname": "Raymod Stewart",
+        "ordernumber": "EU586",
+        "contactinfo": "9065536890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "EU",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 10,
+        "patientid": "P610",
+        "patientname": "Messi Lionel",
+        "ordernumber": "EU089",
+        "contactinfo": "90666636890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "EU",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 11,
+        "patientid": "P501",
+        "patientname": "Jenny Lee",
+        "ordernumber": "APAC016",
+        "contactinfo": "45765536890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "APAC",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 12,
+        "patientid": "P531",
+        "patientname": "Joseph San",
+        "ordernumber": "APAC900",
+        "contactinfo": "45765536890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "APAC",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 13,
+        "patientid": "P597",
+        "patientname": "Hose Lan",
+        "ordernumber": "APAC792",
+        "contactinfo": "9065536890",
+        "apheresisstatus": "Delayed",
+        "mfrstatus": "Delayed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Delayed",
+        "region": "APAC",
+        "orderstatus": "Delayed"
+      },
+      {
+        "id": 14,
+        "patientid": "P547",
+        "patientname": "Jackie chan",
+        "ordernumber": "APAC753",
+        "contactinfo": "45465536890",
+        "apheresisstatus": "Delayed",
+        "mfrstatus": "Delayed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Delayed",
+        "region": "APAC",
+        "orderstatus": "Delayed"
+      },
+      {
+        "id": 15,
+        "patientid": "P570",
+        "patientname": "Robert Dzang",
+        "ordernumber": "APAC986",
+        "contactinfo": "2045456890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "APAC",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 16,
+        "patientid": "P067",
+        "patientname": "Lizet Rodriguez",
+        "ordernumber": "NA098",
+        "contactinfo": "20198445568",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "NA",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 17,
+        "patientid": "P057",
+        "patientname": "Henry Eiguez",
+        "ordernumber": "NA999",
+        "contactinfo": "20173656890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "NA",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 18,
+        "patientid": "P157",
+        "patientname": "Surdanez Rod",
+        "ordernumber": "NA001",
+        "contactinfo": "20175545454",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "NA",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 19,
+        "patientid": "P065",
+        "patientname": "Rod Hertz",
+        "ordernumber": "NA871",
+        "contactinfo": "2017556890",
+        "apheresisstatus": "Delayed",
+        "mfrstatus": "Delayed",
+        "dpdelieverstatus": "Due",
+        "schedulingstatus": "Completed",
+        "region": "NA",
+        "orderstatus": "OnTrack"
+      },
+      {
+        "id": 20,
+        "patientid": "P076",
+        "patientname": "Harvard Josh",
+        "ordernumber": "NA898",
+        "contactinfo": "2017556890",
+        "apheresisstatus": "Completed",
+        "mfrstatus": "Completed",
+        "dpdelieverstatus": "Delayed",
+        "schedulingstatus": "Completed",
+        "region": "NA",
+        "orderstatus": "OnTrack"
+      }
+    ],
+    
+    "statusCounts": [
+      { "status": "OnTrack", "count": 17 },
+      { "status": "Delayed", "count": 3 },
+      { "status": "Due", "count": 0 },
+      { "status": "Completed", "count": 0 }
+    ],
+    
+    "stageStatusCounts": [
+      { "stage": "apheresis", "status": "OnTrack", "count": 1 },
+      { "stage": "apheresis", "status": "Delayed", "count": 6 },
+      { "stage": "apheresis", "status": "Due", "count": 1 },
+      { "stage": "apheresis", "status": "Completed", "count": 12 },
+      
+      { "stage": "manufacturing", "status": "OnTrack", "count": 1 },
+      { "stage": "manufacturing", "status": "Delayed", "count": 6 },
+      { "stage": "manufacturing", "status": "Due", "count": 1 },
+      { "stage": "manufacturing", "status": "Completed", "count": 12 },
+      
+      { "stage": "dpdelivery", "status": "OnTrack", "count": 1 },
+      { "stage": "dpdelivery", "status": "Delayed", "count": 3 },
+      { "stage": "dpdelivery", "status": "Due", "count": 16 },
+      { "stage": "dpdelivery", "status": "Completed", "count": 0 },
+      
+      { "stage": "scheduling", "status": "OnTrack", "count": 1 },
+      { "stage": "scheduling", "status": "Delayed", "count": 5 },
+      { "stage": "scheduling", "status": "Due", "count": 1 },
+      { "stage": "scheduling", "status": "Completed", "count": 13 }
+    ],
+    
+    "regionStats": [
+      { "region": "US", "status": "OnTrack", "count": 5 },
+      { "region": "US", "status": "Delayed", "count": 0 },
+      { "region": "US", "status": "Due", "count": 0 },
+      { "region": "US", "status": "Completed", "count": 0 },
+      
+      { "region": "EU", "status": "OnTrack", "count": 4 },
+      { "region": "EU", "status": "Delayed", "count": 1 },
+      { "region": "EU", "status": "Due", "count": 0 },
+      { "region": "EU", "status": "Completed", "count": 0 },
+      
+      { "region": "APAC", "status": "OnTrack", "count": 3 },
+      { "region": "APAC", "status": "Delayed", "count": 2 },
+      { "region": "APAC", "status": "Due", "count": 0 },
+      { "region": "APAC", "status": "Completed", "count": 0 },
+      
+      { "region": "NA", "status": "OnTrack", "count": 5 },
+      { "region": "NA", "status": "Delayed", "count": 0 },
+      { "region": "NA", "status": "Due", "count": 0 },
+      { "region": "NA", "status": "Completed", "count": 0 }
+    ],
+    
+    "timeToCompletion": [
+      { "region": "US", "stage": "apheresis", "meanTimeHours": 48, "meanTimeDays": 2.0 },
+      { "region": "US", "stage": "manufacturing", "meanTimeHours": 72, "meanTimeDays": 3.0 },
+      { "region": "US", "stage": "dpdelivery", "meanTimeHours": 24, "meanTimeDays": 1.0 },
+      { "region": "US", "stage": "scheduling", "meanTimeHours": 12, "meanTimeDays": 0.5 },
+      
+      { "region": "EU", "stage": "apheresis", "meanTimeHours": 60, "meanTimeDays": 2.5 },
+      { "region": "EU", "stage": "manufacturing", "meanTimeHours": 84, "meanTimeDays": 3.5 },
+      { "region": "EU", "stage": "dpdelivery", "meanTimeHours": 36, "meanTimeDays": 1.5 },
+      { "region": "EU", "stage": "scheduling", "meanTimeHours": 18, "meanTimeDays": 0.8 },
+      
+      { "region": "APAC", "stage": "apheresis", "meanTimeHours": 72, "meanTimeDays": 3.0 },
+      { "region": "APAC", "stage": "manufacturing", "meanTimeHours": 96, "meanTimeDays": 4.0 },
+      { "region": "APAC", "stage": "dpdelivery", "meanTimeHours": 48, "meanTimeDays": 2.0 },
+      { "region": "APAC", "stage": "scheduling", "meanTimeHours": 24, "meanTimeDays": 1.0 },
+      
+      { "region": "NA", "stage": "apheresis", "meanTimeHours": 54, "meanTimeDays": 2.3 },
+      { "region": "NA", "stage": "manufacturing", "meanTimeHours": 78, "meanTimeDays": 3.3 },
+      { "region": "NA", "stage": "dpdelivery", "meanTimeHours": 30, "meanTimeDays": 1.3 },
+      { "region": "NA", "stage": "scheduling", "meanTimeHours": 15, "meanTimeDays": 0.6 }
+    ],
+    
+    "metaData": {
+      "statusColorMap": {
+        "OnTrack": "#90EE90",
+        "Completed": "#008000",
+        "Due": "#FFA500",
+        "Delayed": "#FF0000"
+      },
+      "regions": ["US", "EU", "APAC", "NA"],
+      "stages": ["apheresis", "manufacturing", "dpdelivery", "scheduling"],
+      "statuses": ["OnTrack", "Delayed", "Due", "Completed"]
+    }
+  }
