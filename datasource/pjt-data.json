@@ -6,12 +6,12 @@
         "patientname": "Albert James",
         "ordernumber": "US123",
         "contactinfo": "908767798",
-        "apheresisstatus": "OnTrack",
-        "mfrstatus": "OnTrack",
-        "dpdelieverstatus": "OnTrack",
-        "schedulingstatus": "OnTrack",
+        "apheresisstatus": "In Progress",
+        "mfrstatus": "In Progress",
+        "dpdelieverstatus": "In Progress",
+        "schedulingstatus": "In Progress",
         "region": "US",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 2,
@@ -24,7 +24,7 @@
         "dpdelieverstatus": "Delayed",
         "schedulingstatus": "Delayed",
         "region": "US",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 3,
@@ -37,7 +37,7 @@
         "dpdelieverstatus": "Delayed",
         "schedulingstatus": "Delayed",
         "region": "US",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 4,
@@ -50,7 +50,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Due",
         "region": "US",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 5,
@@ -63,7 +63,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "US",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 6,
@@ -76,7 +76,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "EU",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 7,
@@ -89,7 +89,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "EU",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 8,
@@ -115,7 +115,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "EU",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 10,
@@ -128,7 +128,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "EU",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 11,
@@ -141,7 +141,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "APAC",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 12,
@@ -154,7 +154,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "APAC",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 13,
@@ -193,7 +193,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "APAC",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 16,
@@ -206,7 +206,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "NA",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 17,
@@ -219,7 +219,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "NA",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 18,
@@ -232,7 +232,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "NA",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 19,
@@ -245,7 +245,7 @@
         "dpdelieverstatus": "Due",
         "schedulingstatus": "Completed",
         "region": "NA",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       },
       {
         "id": 20,
@@ -258,56 +258,64 @@
         "dpdelieverstatus": "Delayed",
         "schedulingstatus": "Completed",
         "region": "NA",
-        "orderstatus": "OnTrack"
+        "orderstatus": "In Progress"
       }
     ],
     
     "statusCounts": [
-      { "status": "OnTrack", "count": 17 },
+      { "status": "In Progress", "count": 17 },
       { "status": "Delayed", "count": 3 },
       { "status": "Due", "count": 0 },
       { "status": "Completed", "count": 0 }
     ],
     
     "stageStatusCounts": [
-      { "stage": "apheresis", "status": "OnTrack", "count": 1 },
+      { "stage": "apheresis", "status": "In Progress", "count": 1 },
       { "stage": "apheresis", "status": "Delayed", "count": 6 },
       { "stage": "apheresis", "status": "Due", "count": 1 },
       { "stage": "apheresis", "status": "Completed", "count": 12 },
       
-      { "stage": "manufacturing", "status": "OnTrack", "count": 1 },
+      { "stage": "manufacturing", "status": "In Progress", "count": 1 },
       { "stage": "manufacturing", "status": "Delayed", "count": 6 },
       { "stage": "manufacturing", "status": "Due", "count": 1 },
       { "stage": "manufacturing", "status": "Completed", "count": 12 },
       
-      { "stage": "dpdelivery", "status": "OnTrack", "count": 1 },
+      { "stage": "dpdelivery", "status": "In Progress", "count": 1 },
       { "stage": "dpdelivery", "status": "Delayed", "count": 3 },
       { "stage": "dpdelivery", "status": "Due", "count": 16 },
       { "stage": "dpdelivery", "status": "Completed", "count": 0 },
       
-      { "stage": "scheduling", "status": "OnTrack", "count": 1 },
+      { "stage": "scheduling", "status": "In Progress", "count": 1 },
       { "stage": "scheduling", "status": "Delayed", "count": 5 },
       { "stage": "scheduling", "status": "Due", "count": 1 },
       { "stage": "scheduling", "status": "Completed", "count": 13 }
     ],
+
+    "stageStatusTotals": [
+      { "stage": "apheresis", "count": 8 },
+      { "stage": "manufacturing", "count": 8 },
+      { "stage": "dpdelivery", "count": 20 },
+      { "stage": "scheduling", "count": 7 }
+      
+    ],
     
     "regionStats": [
-      { "region": "US", "status": "OnTrack", "count": 5 },
+      { "region": "US", "status": "In Progress", "count": 5 },
       { "region": "US", "status": "Delayed", "count": 0 },
       { "region": "US", "status": "Due", "count": 0 },
       { "region": "US", "status": "Completed", "count": 0 },
       
-      { "region": "EU", "status": "OnTrack", "count": 4 },
+      { "region": "EU", "status": "In Progress", "count": 4 },
       { "region": "EU", "status": "Delayed", "count": 1 },
       { "region": "EU", "status": "Due", "count": 0 },
       { "region": "EU", "status": "Completed", "count": 0 },
       
-      { "region": "APAC", "status": "OnTrack", "count": 3 },
+      { "region": "APAC", "status": "In Progress", "count": 3 },
       { "region": "APAC", "status": "Delayed", "count": 2 },
       { "region": "APAC", "status": "Due", "count": 0 },
       { "region": "APAC", "status": "Completed", "count": 0 },
       
-      { "region": "NA", "status": "OnTrack", "count": 5 },
+      { "region": "NA", "status": "In Progress", "count": 5 },
       { "region": "NA", "status": "Delayed", "count": 0 },
       { "region": "NA", "status": "Due", "count": 0 },
       { "region": "NA", "status": "Completed", "count": 0 }
@@ -337,13 +345,13 @@
     
     "metaData": {
       "statusColorMap": {
-        "OnTrack": "#90EE90",
+        "In Progress": "#90EE90",
         "Completed": "#008000",
         "Due": "#FFA500",
         "Delayed": "#FF0000"
       },
       "regions": ["US", "EU", "APAC", "NA"],
       "stages": ["apheresis", "manufacturing", "dpdelivery", "scheduling"],
-      "statuses": ["OnTrack", "Delayed", "Due", "Completed"]
+      "statuses": ["In Progress", "Delayed", "Due", "Completed"]
     }
   }
